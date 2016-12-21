@@ -6,6 +6,7 @@ A curated list of awesome adversarial machine learning resources, inspired by [a
 
  - [Blogs](#blogs)
  - [Papers](#papers)
+ - [Talks](#talks)
 
 ## Blogs
  * [Breaking Linear Classifiers on ImageNet](http://karpathy.github.io/2015/03/30/breaking-convnets/), A. Karpathy et al.
@@ -17,6 +18,9 @@ A curated list of awesome adversarial machine learning resources, inspired by [a
  * [The Limitations of Deep Learning in Adversarial Settings](https://arxiv.org/abs/1511.07528), N. Papernot et al., ESSP 2016
  * [Practical Black-Box Attacks against Deep Learning Systems using Adversarial Examples](https://arxiv.org/abs/1602.02697), N. Papernot et al., arxiv 2016
  * [Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images](https://arxiv.org/abs/1412.1897) A. Nguyen et al., CVPR 2015
+ 
+ ## Talks
+  * [Do Statistical Models Understand the World?](https://www.youtube.com/watch?v=Pq4A2mPCB0Y), I. Goodfellow, 2015
 
 ## Licenses
 License
