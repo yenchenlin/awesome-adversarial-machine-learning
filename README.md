@@ -17,8 +17,10 @@ A curated list of awesome adversarial machine learning resources, inspired by [a
  * [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572), I. Goodfellow et al., ICLR 2015
  * [Adversarial Examples In The Physical World](https://arxiv.org/pdf/1607.02533v3.pdf)
  * [Adversarial Examples For Generative Models](https://openreview.net/pdf?id=SJk01vogl)
+ * [Adversarial Training Methods for Semi-Supervised Text Classification](https://arxiv.org/abs/1605.07725)
  * [The Limitations of Deep Learning in Adversarial Settings](https://arxiv.org/abs/1511.07528), N. Papernot et al., ESSP 2016
  * [Practical Black-Box Attacks against Deep Learning Systems using Adversarial Examples](https://arxiv.org/abs/1602.02697), N. Papernot et al., arxiv 2016
+ * [Transferability in Machine Learning: from Phenomena to Black-Box Attacks using Adversarial Samples](https://arxiv.org/abs/1605.07277), N. Papernot et al., arxiv 2016
  * [Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images](https://arxiv.org/abs/1412.1897), A. Nguyen et al., CVPR 2015
  * [DeepFool: a simple and accurate method to fool deep neural networks]()
  * [Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks](https://arxiv.org/pdf/1511.04508.pdf), N. Papernot et al., SSP 2016
