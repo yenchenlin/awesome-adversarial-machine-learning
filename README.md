@@ -17,7 +17,7 @@ A curated list of awesome adversarial machine learning resources, inspired by [a
  * [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572), I. Goodfellow et al., ICLR 2015
  * [Adversarial Examples In The Physical World](https://arxiv.org/pdf/1607.02533v3.pdf)
  * [Adversarial Examples For Generative Models](https://openreview.net/pdf?id=SJk01vogl)
- * [Distributional Smoothing with Virtual Adversarial Training](https://arxiv.org/abs/1507.00677)
+ * [Distributional Smoothing with Virtual Adversarial Training](https://arxiv.org/abs/1507.00677), T. Miyato et al., ICLR 2016
  * [Adversarial Training Methods for Semi-Supervised Text Classification](https://arxiv.org/abs/1605.07725)
  * [The Limitations of Deep Learning in Adversarial Settings](https://arxiv.org/abs/1511.07528), N. Papernot et al., ESSP 2016
  * [Practical Black-Box Attacks against Deep Learning Systems using Adversarial Examples](https://arxiv.org/abs/1602.02697), N. Papernot et al., arxiv 2016
