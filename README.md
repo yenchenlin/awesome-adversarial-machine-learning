@@ -28,6 +28,7 @@ A curated list of awesome adversarial machine learning resources, inspired by [a
  * [Towards Evaluating the Robustness of Neural Networks]
  * [Delving into Transferable Adversarial Examples and Black-box Attacks]
  * [SoK: Towards the Science of Security and Privacy in Machine Learning]
+ * [Learning Adversary-Resistant Deep Neural Networks]
  
 ## Talks
  * [Do Statistical Models Understand the World?](https://www.youtube.com/watch?v=Pq4A2mPCB0Y), I. Goodfellow, 2015
