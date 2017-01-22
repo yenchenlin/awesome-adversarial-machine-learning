@@ -25,6 +25,9 @@ A curated list of awesome adversarial machine learning resources, inspired by [a
  * [Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images](https://arxiv.org/abs/1412.1897), A. Nguyen et al., CVPR 2015
  * [DeepFool: a simple and accurate method to fool deep neural networks]()
  * [Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks](https://arxiv.org/pdf/1511.04508.pdf), N. Papernot et al., SSP 2016
+ * [Towards Evaluating the Robustness of Neural Networks]
+ * [Delving into Transferable Adversarial Examples and Black-box Attacks]
+ * [SoK: Towards the Science of Security and Privacy in Machine Learning]
  
 ## Talks
  * [Do Statistical Models Understand the World?](https://www.youtube.com/watch?v=Pq4A2mPCB0Y), I. Goodfellow, 2015
