@@ -15,10 +15,9 @@ A curated list of awesome adversarial machine learning resources, inspired by [a
 ## Papers
  * [Intriguing properties of neural networks](https://arxiv.org/abs/1312.6199), C. Szegedy et al., arxiv 2014
  * [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572), I. Goodfellow et al., ICLR 2015
- * [Adversarial Examples In The Physical World](https://arxiv.org/pdf/1607.02533v3.pdf)
- * [Adversarial Examples For Generative Models](https://openreview.net/pdf?id=SJk01vogl)
+ * [Adversarial Examples In The Physical World](https://arxiv.org/pdf/1607.02533v3.pdf), A. Kurakin et al., arxiv 2016
  * [Distributional Smoothing with Virtual Adversarial Training](https://arxiv.org/abs/1507.00677), T. Miyato et al., ICLR 2016
- * [Adversarial Training Methods for Semi-Supervised Text Classification](https://arxiv.org/abs/1605.07725)
+ * [Adversarial Training Methods for Semi-Supervised Text Classification](https://arxiv.org/abs/1605.07725), T. Miyato et al., ICLR 2017
  * [The Limitations of Deep Learning in Adversarial Settings](https://arxiv.org/abs/1511.07528), N. Papernot et al., ESSP 2016
  * [Practical Black-Box Attacks against Deep Learning Systems using Adversarial Examples](https://arxiv.org/abs/1602.02697), N. Papernot et al., arxiv 2016
  * [Transferability in Machine Learning: from Phenomena to Black-Box Attacks using Adversarial Samples](https://arxiv.org/abs/1605.07277), N. Papernot et al., arxiv 2016
@@ -26,6 +25,7 @@ A curated list of awesome adversarial machine learning resources, inspired by [a
  * [DeepFool: a simple and accurate method to fool deep neural networks]()
  * [Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks](https://arxiv.org/pdf/1511.04508.pdf), N. Papernot et al., SSP 2016
  * [Towards Evaluating the Robustness of Neural Networks]
+ * [Adversarial Examples For Generative Models](https://openreview.net/pdf?id=SJk01vogl)
  * [Delving into Transferable Adversarial Examples and Black-box Attacks]
  * [SoK: Towards the Science of Security and Privacy in Machine Learning]
  * [Learning Adversary-Resistant Deep Neural Networks]
