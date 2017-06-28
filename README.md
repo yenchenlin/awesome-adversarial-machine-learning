@@ -32,6 +32,7 @@ A curated list of awesome adversarial machine learning resources, inspired by [a
  
 ## Talks
  * [Do Statistical Models Understand the World?](https://www.youtube.com/watch?v=Pq4A2mPCB0Y), I. Goodfellow, 2015
+ * [Classifiers under Attack](https://www.youtube.com/watch?v=XYJamxDROOs), David Evans, 2017
 
 ## Licenses
 License
