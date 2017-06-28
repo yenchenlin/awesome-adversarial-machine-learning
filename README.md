@@ -33,6 +33,7 @@ A curated list of awesome adversarial machine learning resources, inspired by [a
 ## Talks
  * [Do Statistical Models Understand the World?](https://www.youtube.com/watch?v=Pq4A2mPCB0Y), I. Goodfellow, 2015
  * [Classifiers under Attack](https://www.usenix.org/conference/enigma2017/conference-program/presentation/evans), David Evans, 2017
+  * [Adversarial Examples in Machine Learning](https://www.usenix.org/conference/enigma2017/conference-program/presentation/papernot), Nicolas Papernot, 2017
 
 ## Licenses
 License
