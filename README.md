@@ -44,7 +44,7 @@ A curated list of awesome adversarial machine learning resources, inspired by [a
 
 **Adversarial Training**
 
-* [Adversarial Machine Learning Aa Scale](https://arxiv.org/pdf/1611.01236.pdf), A. Kurakin et al., ICLR 2017
+* [Adversarial Machine Learning At Scale](https://arxiv.org/pdf/1611.01236.pdf), A. Kurakin et al., ICLR 2017
 * [Ensemble Adversarial Training: Attacks and Defenses](https://arxiv.org/abs/1705.07204), F. Tramèr et al., arxiv 2017
 
 **Defensive Distillation**
