@@ -13,6 +13,7 @@ A curated list of awesome adversarial machine learning resources, inspired by [a
  * [Breaking things is easy](http://www.cleverhans.io/security/privacy/ml/2016/12/16/breaking-things-is-easy.html), N. Papernot & I. Goodfellow et al.
  * [Attacking Machine Learning with Adversarial Examples](https://blog.openai.com/adversarial-example-research/), N. Papernot, I. Goodfellow, S. Huang, Y. Duan, P. Abbeel, J. Clark.
  * [Introduction to Adversarial Machine Learning](https://mascherari.press/introduction-to-adversarial-machine-learning/), Sarah Jamie Lewis.
+ * [Robust Adversarial Examples](https://blog.openai.com/robust-adversarial-inputs/), Anish Athalye.
  
 ## Papers
 ### General
