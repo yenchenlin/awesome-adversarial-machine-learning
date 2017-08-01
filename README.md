@@ -37,9 +37,13 @@ A curated list of awesome adversarial machine learning resources, inspired by [a
 * [Tactics of Adversarial Attacks on Deep Reinforcement Learning Agents](https://arxiv.org/abs/1703.06748), Y. Lin et al, IJCAI 2017
 * [Delving into adversarial attacks on deep policies](https://arxiv.org/abs/1705.06452), J. Kos et al., ICLR workshop 2017
 
-**VAE-GAN**
+**Segmentation & Object Detection**
+
+* [Adversarial Examples for Semantic Segmentation and Object Detection](https://arxiv.org/pdf/1703.08603.pdf), C. Xie, ICCV 2017
 
 * [Adversarial examples for generative models](https://arxiv.org/abs/1702.06832), J. Kos et al. arxiv 2017
+
+**VAE-GAN**
 
 ### Defence
 
