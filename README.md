@@ -41,9 +41,9 @@ A curated list of awesome adversarial machine learning resources, inspired by [a
 
 * [Adversarial Examples for Semantic Segmentation and Object Detection](https://arxiv.org/pdf/1703.08603.pdf), C. Xie, ICCV 2017
 
-* [Adversarial examples for generative models](https://arxiv.org/abs/1702.06832), J. Kos et al. arxiv 2017
-
 **VAE-GAN**
+
+* [Adversarial examples for generative models](https://arxiv.org/abs/1702.06832), J. Kos et al. arxiv 2017
 
 ### Defence
 
