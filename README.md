@@ -45,6 +45,9 @@ A curated list of awesome adversarial machine learning resources, inspired by [a
 
 * [Adversarial examples for generative models](https://arxiv.org/abs/1702.06832), J. Kos et al. arxiv 2017
 
+**Malware Detection**
+* [RHMD: Evasion-Resilient Hardware Malware Detectors](http://www.cs.ucr.edu/~kkhas001/pubs/micro17-rhmd.pdf), Khaled N. Khasawneh et al., MICRO 2017
+
 ### Defence
 
 **Adversarial Training**
@@ -55,6 +58,9 @@ A curated list of awesome adversarial machine learning resources, inspired by [a
 **Defensive Distillation**
 * [Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks](https://arxiv.org/pdf/1511.04508.pdf), N. Papernot et al., SSP 2016
 * [Extending Defensive Distillation](https://arxiv.org/abs/1705.05264), N. Papernot et al., arxiv 2017
+
+**Randomization**
+* [RHMD: Evasion-Resilient Hardware Malware Detectors](http://www.cs.ucr.edu/~kkhas001/pubs/micro17-rhmd.pdf), Khaled N. Khasawneh et al., MICRO 2017
 
 ### Regularization
  * [Distributional Smoothing with Virtual Adversarial Training](https://arxiv.org/abs/1507.00677), T. Miyato et al., ICLR 2016
