@@ -21,6 +21,7 @@ A curated list of awesome adversarial machine learning resources, inspired by [a
 ### General
  * [Intriguing properties of neural networks](https://arxiv.org/abs/1312.6199), C. Szegedy et al., arxiv 2014
  * [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572), I. Goodfellow et al., ICLR 2015
+ * [Motivating the Rules of the Game for Adversarial Example Research](https://arxiv.org/abs/1807.06732), J. Gilmer et al., arxiv 2018
 
 ### Attack
 **Image Classification**
@@ -57,6 +58,10 @@ A curated list of awesome adversarial machine learning resources, inspired by [a
 **Defensive Distillation**
 * [Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks](https://arxiv.org/pdf/1511.04508.pdf), N. Papernot et al., SSP 2016
 * [Extending Defensive Distillation](https://arxiv.org/abs/1705.05264), N. Papernot et al., arxiv 2017
+
+**Generative Model**
+* [PixelDefend: Leveraging Generative Models to Understand and Defend against Adversarial Examples](https://arxiv.org/abs/1710.10766), Y. Song et al., ICLR 2018
+* [Detecting Adversarial Attacks on Neural Network Policies with Visual Foresight](https://arxiv.org/abs/1710.00814), Y. Lin et al., NIPS workshop 2017
 
 ### Regularization
  * [Distributional Smoothing with Virtual Adversarial Training](https://arxiv.org/abs/1507.00677), T. Miyato et al., ICLR 2016
