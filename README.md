@@ -22,6 +22,7 @@ A curated list of awesome adversarial machine learning resources, inspired by [a
  * [Intriguing properties of neural networks](https://arxiv.org/abs/1312.6199), C. Szegedy et al., arxiv 2014
  * [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572), I. Goodfellow et al., ICLR 2015
  * [Motivating the Rules of the Game for Adversarial Example Research](https://arxiv.org/abs/1807.06732), J. Gilmer et al., arxiv 2018
+ * [Wild Patterns: Ten Years After the Rise of Adversarial Machine Learning](https://arxiv.org/abs/1712.03141), B. Biggio, Pattern Recognition 2018
 
 ### Attack
 **Image Classification**
