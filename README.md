@@ -34,6 +34,7 @@ A curated list of awesome adversarial machine learning resources, inspired by [a
  * [Delving into Transferable Adversarial Examples and Black-box Attacks](https://arxiv.org/abs/1611.02770) Liu et al., ICLR 2017
  * [Towards Evaluating the Robustness of Neural Networks](https://arxiv.org/abs/1608.04644) N. Carlini et al., SSP 2017
  * [Practical Black-Box Attacks against Deep Learning Systems using Adversarial Examples](https://arxiv.org/abs/1602.02697), N. Papernot et al., Asia CCS 2017
+ * [Privacy and machine learning: two unexpected allies?](http://www.cleverhans.io/privacy/2018/04/29/privacy-and-machine-learning.html), I. Goodfellow et al.
 
 **Reinforcement Learning**
 
