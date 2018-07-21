@@ -48,6 +48,14 @@ A curated list of awesome adversarial machine learning resources, inspired by [a
 
 * [Adversarial examples for generative models](https://arxiv.org/abs/1702.06832), J. Kos et al. arxiv 2017
 
+**Speech Recognition**
+
+* [Audio Adversarial Examples: Targeted Attacks on Speech-to-Text](https://arxiv.org/abs/1801.01944), N. Carlini et al., arxiv 2018
+
+**Questiona Answering System**
+
+* [Adversarial Examples for Evaluating Reading Comprehension Systems](https://arxiv.org/abs/1707.07328), R. Jia et al., EMNLP 2017
+
 ### Defence
 
 **Adversarial Training**
