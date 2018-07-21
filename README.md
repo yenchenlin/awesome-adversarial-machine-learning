@@ -12,8 +12,10 @@ A curated list of awesome adversarial machine learning resources, inspired by [a
  * [Breaking Linear Classifiers on ImageNet](http://karpathy.github.io/2015/03/30/breaking-convnets/), A. Karpathy et al.
  * [Breaking things is easy](http://www.cleverhans.io/security/privacy/ml/2016/12/16/breaking-things-is-easy.html), N. Papernot & I. Goodfellow et al.
  * [Attacking Machine Learning with Adversarial Examples](https://blog.openai.com/adversarial-example-research/), N. Papernot, I. Goodfellow, S. Huang, Y. Duan, P. Abbeel, J. Clark.
- * [Introduction to Adversarial Machine Learning](https://mascherari.press/introduction-to-adversarial-machine-learning/), Sarah Jamie Lewis.
  * [Robust Adversarial Examples](https://blog.openai.com/robust-adversarial-inputs/), Anish Athalye.
+ * [A Brief Introduction to Adversarial Examples](http://people.csail.mit.edu/madry/lab/blog/adversarial/2018/07/06/adversarial_intro/), A. Madry et al.
+ * [Training Robust Classifiers (Part 1)](http://people.csail.mit.edu/madry/lab/blog/adversarial/2018/07/11/robust_optimization_part1/), A. Madry et al.
+
  
 ## Papers
 ### General
