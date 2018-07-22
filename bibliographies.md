@@ -1,6 +1,6 @@
 # Adversarial Machine Learning
 
-Investigating security, privacy, and robustness of machine learning algorithms
+This is an annotated bibliographies investigating security, privacy, and robustness of machine learning algorithms
 in adversarial environments.
 
 ---
