@@ -12,6 +12,7 @@ Christian Szegedy, Wojciech Zaremba, Ilya Sutskever, Joan Bruna, Dumitru Erhan, 
 https://arxiv.org/abs/1312.6199
 
 The original. TBD.
+
 ---
 
 Explaining and Harnessing Adversarial Examples
