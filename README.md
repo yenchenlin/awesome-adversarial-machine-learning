@@ -15,8 +15,8 @@ A curated list of awesome adversarial machine learning resources, inspired by [a
  * [Robust Adversarial Examples](https://blog.openai.com/robust-adversarial-inputs/), Anish Athalye.
  * [A Brief Introduction to Adversarial Examples](http://people.csail.mit.edu/madry/lab/blog/adversarial/2018/07/06/adversarial_intro/), A. Madry et al.
  * [Training Robust Classifiers (Part 1)](http://people.csail.mit.edu/madry/lab/blog/adversarial/2018/07/11/robust_optimization_part1/), A. Madry et al.
- * [Adversarial Machine Learning Reading List](https://nicholas.carlini.com/writing/2018/adversarial-machine-learning-reading-list.html)
- * [Recommendations for Evaluating Adversarial Example Defenses](https://nicholas.carlini.com/writing/2018/evaluating-adversarial-example-defenses.html)
+ * [Adversarial Machine Learning Reading List](https://nicholas.carlini.com/writing/2018/adversarial-machine-learning-reading-list.html), N. Carlini
+ * [Recommendations for Evaluating Adversarial Example Defenses](https://nicholas.carlini.com/writing/2018/evaluating-adversarial-example-defenses.html), N. Carlini
 
  
 ## Papers
