@@ -1,4 +1,4 @@
-# Deprecated
+# :warning: Deprecated
 I no longer include up-to-date papers, but the list is still a good reference for starters.
 
 
