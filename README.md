@@ -10,6 +10,8 @@ A curated list of awesome adversarial machine learning resources, inspired by [a
  - [Blogs](#blogs)
  - [Papers](#papers)
  - [Talks](#talks)
+ - [Software](#software)
+
 
 ## Blogs
  * [Breaking Linear Classifiers on ImageNet](http://karpathy.github.io/2015/03/30/breaking-convnets/), A. Karpathy et al.
@@ -94,6 +96,9 @@ A curated list of awesome adversarial machine learning resources, inspired by [a
   * [Poisoning complete-linkage hierarchical clustering](http://pralab.diee.unica.it/en/node/1089), Biggio. B, Rota Bulò. S, Pillai. I, Mura. M, Zemene Mequanint. E, Pelillo. M, Roli. F, 2014
   * [Is Feature Selection Secure against Training Data Poisoning?](https://pralab.diee.unica.it/en/node/1191), Xiao. H, Biggio. B, Brown. G, Fumera. G, Eckert. C, Roli. F, 2015
   * [Adversarial Feature Selection Against Evasion Attacks](https://pralab.diee.unica.it/en/node/1188), 	Zhang. F, Chan. PPK, Biggio. B, Yeung. DS, Roli. F, 2016
+
+## Software
+  * [adversarial.js](https://github.com/kennysong/adversarial.js) – craft adversarial examples in your browser
 
 ## Licenses
 License
