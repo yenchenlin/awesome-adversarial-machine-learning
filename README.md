@@ -28,6 +28,7 @@ A curated list of awesome adversarial machine learning resources, inspired by [a
  * [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572), I. Goodfellow et al., ICLR 2015
  * [Motivating the Rules of the Game for Adversarial Example Research](https://arxiv.org/abs/1807.06732), J. Gilmer et al., arxiv 2018
  * [Wild Patterns: Ten Years After the Rise of Adversarial Machine Learning](https://arxiv.org/abs/1712.03141), B. Biggio, Pattern Recognition 2018
+ * [A Survey of Game Theoretic Approaches for Adversarial Machine Learning in Cybersecurity Tasks](https://www.aaai.org/ojs/index.php/aimagazine/article/view/2847), P. Dasgupta et al., AI magazine Vol 40 No 2: Summer 2019
 
 ### Attack
 **Image Classification**
